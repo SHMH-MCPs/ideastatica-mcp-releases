@@ -24,7 +24,7 @@ project content stays on your PC; a read-only mode is available. Results are IDE
 ## Supported versions
 | IDEA StatiCa | Status |
 |---|---|
-| 26.1 (Connection Rest API 5.0) | designed for, **not yet tested** |
+| 26.1 (Connection Rest API 5.0) | **tested** on 26.1.0.5973 (self-test 43/43) |
 | 26.0 (Connection Rest API 4.0) | designed for (fewer tools), **not yet tested** |
 
 The live tools need a licensed IDEA StatiCa (the Basic licence type has no API). It cannot drive Checkbot or the desktop applications.
