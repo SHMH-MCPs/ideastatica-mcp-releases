@@ -6,9 +6,9 @@ IDEA StatiCa MCP is a free [Model Context Protocol](https://modelcontextprotocol
 Windsurf, Gemini, Codex and other AI assistants use it to work with IDEA StatiCa through IDEA StatiCa's own Connection and RCS REST
 services on your PC, and with IDEA Open Model (IOM) files without IDEA StatiCa. One self-contained program: no plug-in, no .NET to install.
 
-**Download:** no release yet — coming soon. Releases will appear on the [releases page](https://github.com/SHMH-MCPs/ideastatica-mcp-releases/releases).
+**Download:** [the latest release](https://github.com/SHMH-MCPs/ideastatica-mcp-releases/releases/latest) — run `Install-IDEA-StatiCa-MCP.cmd` from it. Requires IDEA StatiCa 26.0 or 26.1 (not Basic) for the Connection and RCS tools.
 
-## What it does (implemented; not yet verified against a real IDEA StatiCa)
+## What it does (0.1.0 verified live on IDEA StatiCa 26.1.0.5973; 26.0 and typed manufacturing operations not yet verified)
 - **Connection projects:** open, create, import from IOM, save and close; connections, members, load effects, parameters, materials, sections, bolt assemblies
 - **Design:** templates and the Connection Library; manufacturing operations (bolt grids, welds, plates, cuts, stiffeners) directly in IDEA StatiCa 26.1
 - **Calculation and results:** calculate as background jobs; IDEA StatiCa's verdict per connection and check; detailed results
